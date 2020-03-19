@@ -1,0 +1,42 @@
+/*
+Este archivo es mi hoja de estilo de mi index.html
+*/
+
+body {
+    background-color: #ffffff;
+}
+
+article {
+    background-color: #fcfafa;
+    width: 600px;
+    height: 250px;
+    border: 0.4px solid #fcfafa;
+    margin: auto;
+    box-shadow: 7px 10px 9px -4px rgba(0, 0, 0, 0.75);
+}
+
+h1 {
+    font-size: 1.7em;
+}
+
+p {
+    color: #808080;
+    font-size: 1em;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+span {
+    font-family: sans-serif;
+    font-size: 0.9;
+    color: #808080;
+    font-weight: bold;
+    padding-right: 1.5em;
+}
+
+.primerArt,
+.segundoArt,
+.tercerArt {
+    padding-right: 1.3em;
+    padding-left: 1.3em;
+}
